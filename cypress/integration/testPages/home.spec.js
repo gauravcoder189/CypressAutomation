@@ -1,9 +1,9 @@
-/// <reference types="cypress" />
+/// <reference types="Cypress" />
 
 import homepage from "../objectPages/homepage"
 import loginpage from "../objectPages/loginpage"
 
-describe('The HomePage test cases Suite', function(){
+describe('TheHomePage test cases Suite', function(){
     
     before(()=>{
        // cy.fixture('example.json').as('loginCreds')
