@@ -3,7 +3,7 @@
 import homepage from "../objectPages/homepage"
 import loginpage from "../objectPages/loginpage"
 
-describe('HomePage test cases Suite', function(){
+describe('The HomePage test cases Suite', function(){
     
     before(()=>{
        // cy.fixture('example.json').as('loginCreds')
