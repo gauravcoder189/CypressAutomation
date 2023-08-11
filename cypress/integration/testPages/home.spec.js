@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+
 
 import homepage from "../objectPages/homepage"
 import loginpage from "../objectPages/loginpage"
